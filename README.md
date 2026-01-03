@@ -2,7 +2,7 @@
 
 **Description:** This project involves developing a model to predict whether a customer will churn on a given date, using the customers, customer_history, referance_date, referance_date_test, and sample_submission datasets. The model development initially used ANN and subsequently the CatBoost algorithms.
 
-* **💻 Colab NoteBooks:** [ING HUB Datathon Colab Defteri]((https://colab.research.google.com/drive/1iE571WS9NBXVlIJStHZQlcWKFlD5SDaB?usp=sharing)
+* **💻 Colab NoteBooks:** [🚀 ING HUB Datathon Colab Defteri](https://colab.research.google.com/drive/1iE571WS9NBXVlIJStHZQlcWKFlD5SDaB?usp=sharing)
 * **📊 Dataset Note;**
 * **customer_history.csv**: File containing customers' monthly aggregated transaction history **(EFTs, credit card spending, etc.)**
 * **customers.csv**: File containing customers' demographic information **(age, gender, etc.)**.
